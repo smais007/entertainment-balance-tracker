@@ -1,6 +1,6 @@
-package com.entertainmenttracker.util;
+package File;
 
-import com.entertainmenttracker.model.DailyEntry;
+import Entry.DailyEntry;
 import java.io.*;
 import java.util.ArrayList;
 

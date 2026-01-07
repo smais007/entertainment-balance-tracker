@@ -1,4 +1,4 @@
-package com.entertainmenttracker.model;
+package Entry;
 
 public class DailyEntry {
     

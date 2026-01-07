@@ -1,8 +1,8 @@
-package com.entertainmenttracker.ui;
+package GUI;
 
-import com.entertainmenttracker.model.DailyEntry;
-import com.entertainmenttracker.util.BalanceCalculator;
-import com.entertainmenttracker.util.FileHandler;
+import Entry.DailyEntry;
+import File.BalanceCalculator;
+import File.FileHandler;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

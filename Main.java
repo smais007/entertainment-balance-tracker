@@ -1,6 +1,4 @@
-package com.entertainmenttracker;
-
-import com.entertainmenttracker.ui.MainFrame;
+import GUI.MainFrame;
 import javax.swing.SwingUtilities;
 
 public class Main {
